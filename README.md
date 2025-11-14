@@ -7,7 +7,7 @@ The pipeline extracts public data about **exoplanets**, **near-Earth asteroids**
 
 ## Project Overview
 
-This project demonstrates practical DE concepts using a fully free and open-source stack:
+Stack:
 
 - **Python** (Pandas, Requests, SQLAlchemy)  
 - **PostgreSQL** (local)  
