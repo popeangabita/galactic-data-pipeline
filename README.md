@@ -1,6 +1,6 @@
 # Cosmic Catalog
 
-Some **data engineering project** that I thought sounds cool which builds a small **space data warehouse** (if you want to call it like that) real astronomical datasets.
+Some **data engineering project** that I thought sounds cool which builds a small **space data warehouse** (if you want to call it like that) using real astronomical datasets.
 The pipeline extracts public data about **exoplanets**, **near-Earth asteroids**, and **stars**, loads them into **PostgreSQL**, transforms them using Python, and creates **mart views** for exploration.
 
 ---
